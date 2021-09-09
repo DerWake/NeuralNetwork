@@ -159,6 +159,7 @@ for e in range(max_num_stage):
         print('Завершено.')
         break
 
+'''End'''
 SaveImage(new_img.asnumpy(), output)
 
 
